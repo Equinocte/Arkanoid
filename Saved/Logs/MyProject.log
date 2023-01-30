@@ -1392,3 +1392,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.30-12.35.31:980][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.01.30-12.35.31:983][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
 [2023.01.30-12.35.32:025][639]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.01.30-12.39.26:999][523]LogActorFactory: Actor Factory created Cube
+[2023.01.30-12.39.27:485][561]LogActorFactory: Actor Factory created Cube
+[2023.01.30-12.39.28:188][629]LogActorFactory: Actor Factory created Sphere
+[2023.01.30-12.39.28:561][662]LogActorFactory: Actor Factory created Sphere
+[2023.01.30-12.39.32:775][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.30-12.39.32:798][105]LogSavePackage: Moving '../../../../../../Users/emili/OneDrive/Documents/Unreal Projects/MyProject/Saved/FirstPersonExampleMap1D90F0384ED70A1DB827E8BA7002BECE.tmp' to '../../../../../../Users/emili/OneDrive/Documents/Unreal Projects/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.01.30-12.39.33:090][105]LogSavePackage: Moving '../../../../../../Users/emili/OneDrive/Documents/Unreal Projects/MyProject/Saved/FirstPersonExampleMap_BuiltData17B3CE234C2209C061748A9AD2B7F7A2.tmp' to '../../../../../../Users/emili/OneDrive/Documents/Unreal Projects/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.01.30-12.39.33:103][105]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.30-12.39.33:103][105]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.01.30-12.39.33:103][105]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
